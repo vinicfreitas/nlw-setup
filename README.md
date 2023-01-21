@@ -13,7 +13,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="Habits" src=".github/cover.jpg" width="100%">
+  <img alt="Habits" src=".github/Cover.jpg" width="100%">
 </p>
 
 
